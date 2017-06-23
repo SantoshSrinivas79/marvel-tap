@@ -1,0 +1,2 @@
+requests==2.18.1
+singer-python==1.9.1
